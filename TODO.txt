@@ -1,0 +1,7 @@
+* some entries have been translated from Russion using Google Translate -- fix them
+* what about <!DOCTYPE ?
+* Something is wrong if the spaces in the beginning of XML (without <? Xml at the beginning)
+* within the comments can not be --
+* in names of tags and attributes can be used not only Ascii symbols
+* The same attribute name can not occur twice in the same element
+* more strict header checking - in XML 1.0 it can be omitted, in 1.1 mandatory - version + encoding
